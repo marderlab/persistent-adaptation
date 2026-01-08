@@ -1,0 +1,8 @@
+name: matlab-python
+channels:
+  - https://repo.anaconda.com/pkgs/main
+  - https://repo.anaconda.com/pkgs/r
+dependencies:
+  - python=3.11
+  - matplotlib
+prefix: /Users/yoshi/miniconda3/envs/matlab-python
