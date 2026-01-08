@@ -1,3 +1,10 @@
+THIS CODE REQUIRES EXTRA DATA NOT AVAILABLE ON GITHUB. THE CODE POSTED HERE IS FOR REFERENCE.
+
+UNZIP FILE POSTED TO ZENODO TO RUN CODE - 
+10.5281/zenodo.18188912
+
+------------------------------------------
+
 # Running the Code
 
 ## Simulations
